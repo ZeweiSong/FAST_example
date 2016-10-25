@@ -49,9 +49,9 @@ rm -r developer
 
 : '
 #Download the example dataset. This file contains example for ITS1 and ITS2 data.
-wget https://github.com/ZeweiSong/FAST_example/archive/v1.1.tar.gz
-tar -xvf v1.1.tar.gz
-mv FAST_example-1.1/ITS1/* ./
+wget https://github.com/ZeweiSong/FAST_example/archive/v1.2.tar.gz
+tar -xvf v1.2.tar.gz
+mv FAST_example-1.2/ITS1/* ./
 '
 
 : '
